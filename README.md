@@ -3,7 +3,8 @@
 ---
 
 A simple blogging platform styled with **Tailwind CSS**, it utilizes a **MySQL database** to store Categories, Posts, and Users. Managed through  the **Laragon Herd**  development environment for viewing the latest blog posts about anything.
-
+ 
+ **FOR THE DATABASE, I EXPORTED IT, IT'S IN THE /database_db/blogpost_db** 
 ---
 
 ## User Roles
